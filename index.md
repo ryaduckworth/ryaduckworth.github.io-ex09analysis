@@ -19,7 +19,7 @@ We then used count to see the distribution of difficulty scores across the class
 Then, we created visualizations using the data from the survey (difficulty, major, and interesting columns) to see if there was a correlation between the variables. 
 
 ## Analysis Visualizations
-<img src="/ryaduckworth.github.io-ex09analysis/static/imgs/box_plot.png" alt="Image of Bar Graph of Difficulty Distribution"  width="500"/>
+<img src="/ryaduckworth.github.io-ex09analysis/static/imgs/box_plot.png" alt="Box Plot of Difficulty Distribution" width="500"/>
 <img src="<custom-path>/static/imgs/box_plot.png" alt="Image of Box Plot Comparing Difficulty to Major"  width="500"/>
 <img src="<custom-path>/static/imgs/heatmap.png" alt="Image of Heatmap Comparing Difficulty to Interest"  width="500"/>
 
