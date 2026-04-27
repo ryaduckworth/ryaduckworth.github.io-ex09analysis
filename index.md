@@ -19,17 +19,21 @@ We then used count to see the distribution of difficulty scores across the class
 Then, we created visualizations using the data from the survey (difficulty, major, and interesting columns) to see if there was a correlation between the variables. 
 
 ## Analysis Visualizations
+
+<figure>
 <img src="/static/imgs/bar_graph.png" alt="Image of Bar Graph of Difficulty Distribution" width="500"/>
-Image of Bar Graph of Difficulty Distribution
+<figcaption>Figure 1: This box plot shows the distribution of difficulty ratings across different majors.</figcaption>
+</figure>
 
-
+<figure>
 <img src="/static/imgs/box_plot.png" alt="Image of Box Plot Comparing Difficulty to Major" width="500"/>
-Image of Box Plot Comparing Difficulty to Major
+<figcaption>Figure 2: This box plot compares student difficulty ratings across different majors to identify which groups struggled most.</figcaption>
+</figure>
 
-
+<figure>
 <img src="/static/imgs/heatmap.png" alt="Image of Heatmap Comparing Difficulty to Interest" width="500"/>
-Image of Heatmap Comparing Difficulty to Interest
-
+<figcaption>Figure 3: This heatmap visualizes the correlation between student interest levels and the perceived difficulty of the course material.</figcaption>
+</figure>
 
 ## Conclusion
 Based on our analysis, we recommend the implementation of detailed video explanations. 
