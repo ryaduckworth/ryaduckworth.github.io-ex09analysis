@@ -22,6 +22,7 @@ Then, we created visualizations using the data from the survey (difficulty, majo
 <img src="/static/imgs/bar_graph.png" alt="Image of Bar Graph of Difficulty Distribution" width="500"/>
 <img src="/static/imgs/box_plot.png" alt="Image of Box Plot Comparing Difficulty to Major" width="500"/>
 <img src="/static/imgs/heatmap.png" alt="Image of Heatmap Comparing Difficulty to Interest" width="500"/>
+
 ## Conclusion
 Based on our analysis, we recommend the implementation of detailed video explanations. 
 
