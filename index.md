@@ -19,10 +19,9 @@ We then used count to see the distribution of difficulty scores across the class
 Then, we created visualizations using the data from the survey (difficulty, major, and interesting columns) to see if there was a correlation between the variables. 
 
 ## Analysis Visualizations
-<img src="static/imgs/box_plot.png" alt="Box Plot" width="500">
-<img src="<custom-path>/static/imgs/box_plot.png" alt="Image of Box Plot Comparing Difficulty to Major"  width="500"/>
-<img src="<custom-path>/static/imgs/heatmap.png" alt="Image of Heatmap Comparing Difficulty to Interest"  width="500"/>
-
+<img src="/static/imgs/bar_graph.png" alt="Image of Bar Graph of Difficulty Distribution" width="500"/>
+<img src="/static/imgs/box_plot.png" alt="Image of Box Plot Comparing Difficulty to Major" width="500"/>
+<img src="/static/imgs/heatmap.png" alt="Image of Heatmap Comparing Difficulty to Interest" width="500"/>
 ## Conclusion
 Based on our analysis, we recommend the implementation of detailed video explanations. 
 
