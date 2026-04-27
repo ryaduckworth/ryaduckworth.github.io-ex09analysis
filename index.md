@@ -20,15 +20,12 @@ Then, we created visualizations using the data from the survey (difficulty, majo
 
 ## Analysis Visualizations
 <img src="/static/imgs/bar_graph.png" alt="Image of Bar Graph of Difficulty Distribution" width="500"/>
-
 *Figure 1: This bar graph shows the distribution of difficulty ratings across the class.*
 
 <img src="/static/imgs/box_plot.png" alt="Image of Box Plot Comparing Difficulty to Major" width="500"/>
-
 *Figure 2: This box plot compares student difficulty ratings across different majors.*
 
 <img src="/static/imgs/heatmap.png" alt="Image of Heatmap Comparing Difficulty to Interest" width="500"/>
-
 *Figure 3: This heatmap shows the correlation between student interest levels and course difficulty.*
 
 ## Conclusion
