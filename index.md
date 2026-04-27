@@ -6,14 +6,14 @@ layout: default
 
 
 
-# Rya and Camrie Analysis 
+# Rya and Camrie's Analysis 
 
 ## Our Inquiry
 Our idea was that the course should upload detailed video explanations of Comp 110 concepts because it will further elaborate difficult material for students in the class.
 We planned to support this idea through analysis of difficulty, student majors, and student interest in the class concepts. 
 
 ## Coding Summary
-We began by loading the survey data using read_csv_rows and converting it into a columnar format. Then use head to verify the data structure.
+We began by loading the survey data using read_csv_rows and converting it into a columnar format, then used head to verify the data structure.
 We then selected the columns related to student interest and the difficulty of material to see if there was a correlation that suggested a need for more video resources. We also used our custom filter_by_threshold function to focus on students who find the material challenging (difficulty score of 5 or higher).
 We then used count to see the distribution of difficulty scores across the class to determine how many students might benefit from extra video explanations.
 Then, we created visualizations using the data from the survey (difficulty, major, and interesting columns) to see if there was a correlation between the variables. 
